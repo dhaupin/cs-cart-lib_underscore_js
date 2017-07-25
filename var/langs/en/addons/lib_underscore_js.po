@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::lib_underscore_js"
+msgid "Library - Underscore JS"
+msgstr "Library - Underscore JS"
+
+msgctxt "Addons::description::lib_underscore_js"
+msgid "DEPENDENCY ADDON: Adds the Underscore JS library for other addons to use. <a href=\"http://underscorejs.org\" target=\"_blank\">More info</a>"
+msgstr "DEPENDENCY ADDON: Adds the Underscore JS library for other addons to use. <a href=\"http://underscorejs.org\" target=\"_blank\">More info</a>"
+
+msgctxt "SettingsOptions::lib_underscore_js::addon_general"
+msgid "General Settings"
+msgstr "General Settings"
+
+msgctxt "SettingsOptions::lib_underscore_js::addon_tools"
+msgid "Addon Tools"
+msgstr "Addon Tools"
+
+msgctxt "SettingsOptions::lib_underscore_js::underscore_enable"
+msgid "Enable Addon?"
+msgstr "Enable Addon?"
+
+msgctxt "SettingsTooltips::lib_underscore_js::underscore_enable"
+msgid "Allows you to enable/disable this addon on a per-store basis."
+msgstr "Allows you to enable/disable this addon on a per-store basis."

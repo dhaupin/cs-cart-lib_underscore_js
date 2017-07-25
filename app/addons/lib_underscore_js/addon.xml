@@ -1,9 +1,7 @@
 <?xml version="1.0"?>
-<addon scheme="2.0" edition_type="ROOT,ULT:VENDOR">
+<addon scheme="3.0" edition_type="ROOT,ULT:VENDOR">
 	<id>lib_underscore_js</id>
 	<version>1.0.0</version>
-	<name>Library - Underscore JS</name>
-	<description>DEPENDENCY ADDON: Adds the Underscore JS library for other addons to use.</description>
 	<priority>10</priority>
 	<position>0</position>
 	<status>active</status>
@@ -21,4 +19,24 @@
 			<url>https://creadev.org</url>
 		</author>
 	</authors>
+	<settings>
+		<sections>
+			<section id="general">
+				<items>
+					<!--<item id="addon_general">
+						<type>header</type>
+						<handler></handler>
+					</item>!-->
+					<item id="addon_tools">
+						<type>header</type>
+						<handler></handler>
+					</item>
+					<item id="underscore_enable">
+						<type>checkbox</type>
+						<default_value>Y</default_value>
+					</item>
+				</items>
+			</section>
+		</sections>
+	</settings>
 </addon>
